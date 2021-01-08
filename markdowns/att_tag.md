@@ -15,7 +15,7 @@ Insérer une [images](https://www.w3schools.com/tags/tag_img.asp) avec ses attri
 ## Exercice 2
 
 Insérer un [liens](https://www.w3schools.com/tags/tag_a.asp) vers *http://lsh.univ-rouen.fr/ufr-lettres-et-sciences-humaines-324546.kjsp*.
-@[Liens]({"stubs": ["vide.html"], "command": "/bin/bash run.sh vide .*a-http://lsh.univ-rouen.fr/ufr-lettres-et-sciences-humaines-324546.kjsp-.*"})
+@[Liens]({"stubs": ["vide.html"], "command": "/bin/bash run.sh vide .*a-href=http://lsh.univ-rouen.fr/ufr-lettres-et-sciences-humaines-324546.kjsp-.*"})
 
 ## Exercice 3
 Le document est au total constitué de 10 paragraphes. Avant le premier paragraphe insérer un lien vers une ancre placé avant le dernier paragraphe. 
