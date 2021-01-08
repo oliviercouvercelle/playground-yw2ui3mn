@@ -8,13 +8,13 @@
 
 ## Exercice 1
 
-Insérer une image avec ses attributs obligatoires dans la page. Les 5 images suivantes sont disponnibles dans le répertoire `images` : `concert.jpg`, `mer.jpg`, `paysage.jpg`, `route.jpg` et `urbain.jpg`.
+Insérer une [images](https://www.w3schools.com/tags/tag_img.asp) avec ses attributs obligatoires dans la page. Les 5 images suivantes sont disponnibles dans le répertoire `images` : `concert.jpg`, `mer.jpg`, `paysage.jpg`, `route.jpg` et `urbain.jpg`.
 
 @[Images]({"stubs": ["vide.html"], "command": "/bin/bash run.sh vide .*img-alt;src-.*"})
 
 ## Exercice 2
 
-Insérer un lien vers *https://www.w3schools.com/*.
+Insérer un [liens](https://www.w3schools.com/tags/tag_a.asp) vers *https://www.w3schools.com/*.
 @[Liens]({"stubs": ["vide.html"], "command": "/bin/bash run.sh vide .*a-href=https://www.w3schools.com/-.*"})
 
 ## Exercice 3
