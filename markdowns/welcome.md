@@ -34,6 +34,6 @@ Vous serez donc dans le contexte présenté ci-après :
 
 
 # Exemple
-Pour ce premier exemple, il faut écrire du code HTML incluant un saut de ligne.
+Pour ce premier exemple, il faut écrire du code HTML incluant un saut de ligne [`<br>` ](https://www.w3schools.com/tags/tag_br.asp).
 
 @[Premier exemple]({"stubs": ["vide.html"], "command": "/bin/bash run.sh vide br--"})
