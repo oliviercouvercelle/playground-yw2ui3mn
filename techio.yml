@@ -1,0 +1,20 @@
+title: Exercices HTML
+plan:
+- title: Introduction
+  statement: markdowns/welcome.md
+- title: Balises sans attribut
+  statement: markdowns/no_att_tag.md
+- title: Balises avec attributs
+  statement: markdowns/att_tag.md
+- title: Composition de balise
+  statement: markdowns/combination.md
+- title: La sémantique
+  statement: markdowns/semantic.md
+- title: Les formulaires
+  statement: markdowns/forms.md
+projects:
+  first-project:
+    root: /html
+    runner:
+      name: php
+      version: latest
