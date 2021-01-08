@@ -36,12 +36,7 @@ Encoder une liste ordonnées d'au moins 3 éléments.
 
 ## Exercice 4
 
-Encoder dans l'ordre un titre de niveau 1, un paragraphe contenant une partie de texte mis en évidence `em`, un paragraphe contenant une partie de texte importante `strong` et un paragraphe contenant une partie de texte surligné `mark`.
+Encoder dans l'ordre un titre de niveau 1, un paragraphe contenant une partie de texte mis en évidence [`em`](https://www.w3schools.com/tags/tag_em.asp), un paragraphe contenant une partie de texte importante [`strong`](https://www.w3schools.com/tags/tag_strong.asp) et un paragraphe contenant une partie de texte surligné [`mark`](https://www.w3schools.com/tags/tag_mark.asp).
 
 @[Listes]({"stubs": ["vide.html"], "command": "/bin/bash run.sh vide o{.*p--[em--].*p--[strong--].*p--[mark--].*}"})
 
-## Exercice 5
-
-J'ai réalisé les portraits des Simpsons en Ascii Art pour l'afficher sur ma page web. J'aimerais que celui-ci s'affiche correctement une fois le HTML interprété. Ajouté la balise adéquate pour que l'oeuvre apparraise non déformée dans le navigateur.
-
-@[Ascii Art]({"stubs": ["simpson.html"], "command": "/bin/bash run.sh simpson pre--"})
