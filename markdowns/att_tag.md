@@ -16,8 +16,3 @@ Insérer une [images](https://www.w3schools.com/tags/tag_img.asp) avec ses attri
 
 Insérer un [liens](https://www.w3schools.com/tags/tag_a.asp) vers *https://rouen.fr/*.
 @[Liens]({"stubs": ["vide.html"], "command": "/bin/bash run.sh vide .*a-href=https://rouen.fr/-.*"})
-
-## Exercice 3
-Le document est au total constitué de 10 paragraphes. Avant le premier paragraphe insérer un lien vers une ancre placé avant le dernier paragraphe. 
-
-@[Liens et ancres]({"stubs": ["lorem.html"], "command": "/bin/bash run.sh lorem o{.*a-href-(p--){9}p-id-.*}"})
