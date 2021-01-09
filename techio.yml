@@ -8,6 +8,7 @@ plan:
   statement: markdowns/att_tag.md
 - title: Composition de balise
   statement: markdowns/combination.md
+projects:
   first-project:
     root: /html
     runner:
