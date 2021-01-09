@@ -12,7 +12,7 @@ Les exercices ci-après nécessitent de combiner plusieurs balises.
 |`article`|[article](https://www.w3schools.com/tags/tag_article.asp)|
 
 ## Exercice 1
-Construire un tableau de 3 lignes et 4 colonnes avec une contenu quelconque.
+Construire un [tableau](https://www.w3schools.com/tags/tag_table.asp) de 3 lignes et 4 colonnes avec une contenu quelconque. Il n'y a pas d'entête `th`.
 
 @[Tableau]({"stubs": ["vide.html"], "command": "/bin/bash run.sh vide o{table--[(tr--[(td--){4}]){3}]}"})
 
