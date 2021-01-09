@@ -22,7 +22,7 @@ Dans le texte ci-dessous :
 - Informatique est un titre de niveau 1
 - Définition et Histoire sont des titres de niveau 2
 - Chaque autres portions de texte est un paragraphe
-- Chaque titre et les paragraphes le suivant constitue une section
+- Chaque titre de niveu 2 avec son paragraphe constitue une section
 - L'ensemble du document constitue un article
  
 @[Texte]({"stubs": ["informatique.html"], "command": "/bin/bash run.sh informatique o{article--[h1--(p--){2}]section--[h2--(p--){3}]section--[h2--(p--){2}]}"})
